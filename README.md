@@ -17,6 +17,3 @@
 - 🧩 B 端后台 · 微信小程序变现 · AI 写作工具链
 
 > 工程不只是把功能跑通，而是把"为什么这么做"也讲清楚。
----
-![heycqing's stats](https://github-readme-stats.vercel.app/api?username=heycqing&show_icons=true&hide_border=true&theme=default)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heycqing&layout=compact&hide_border=true)
