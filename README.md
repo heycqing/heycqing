@@ -1,16 +1,22 @@
-## Hi there 👋
+### 喝咖啡会睡着的独立开发者 👾
 
-<!--
-**heycqing/heycqing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个人写代码、接活、也用 AI 折腾点有意思的东西。
 
-Here are some ideas to get you started:
+- 🛠️ 主要折腾 **前端 / 小程序 / Node.js 工具链**，喜欢把轮子拆开看里面怎么转
+- 🤖 在认真实践 **AI 辅助开发**——文档驱动 + AI 分工，然后自己 review 兜底
+- ✍️ 也在玩 **AI 自动化写作**，让连续章节不脱离主线
+- 📍 xinxing
+- ✏️ 写一些开发与思考 → [我的博客](https://cqing-blog.pages.dev/blog/)
+- 📫 联系我：heycqing@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Working on**
+
+- 🐱 X hot 实验
+- 🧩 B 端后台 · 微信小程序变现 · AI 写作工具链
+
+> 工程不只是把功能跑通，而是把"为什么这么做"也讲清楚。
+---
+![heycqing's stats](https://github-readme-stats.vercel.app/api?username=heycqing&show_icons=true&hide_border=true&theme=default)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heycqing&layout=compact&hide_border=true)
