@@ -6,7 +6,7 @@
 - 🤖 在认真实践 **AI 辅助开发**——文档驱动 + AI 分工，然后自己 review 兜底
 - ✍️ 也在玩 **AI 自动化写作**，让连续章节不脱离主线
 - 📍 xinxing
-- ✏️ 写一些开发与思考 → [我的博客](https://cqing-blog.pages.dev/blog/)
+- ✏️ 写一些开发与思考 → [我的博客](https://blog.haiqing.uk/blog/)
 - 📫 联系我：heycqing@gmail.com
 
 ---
