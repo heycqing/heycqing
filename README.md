@@ -7,6 +7,7 @@
 - ✍️ 也在玩 **AI 自动化写作**，让连续章节不脱离主线
 - 📍 xinxing
 - ✏️ 写一些开发与思考 → [我的博客](https://blog.haiqing.uk/blog/)
+- 📄 最近整理的 25 页 PDF → [DocDrive：文档驱动的 AI 执行框架](https://blog.haiqing.uk/docdrive)
 - 📫 联系我：heycqing@gmail.com
 
 ---
