@@ -42,7 +42,6 @@
 | [**cqing-better-code**](https://github.com/heycqing/cqing-better-code) | 跨项目约束工程方法论沉淀库（门禁模板、漂移检测、验证闭环） | Harness Engineering |
 | [**doc-kb**](https://github.com/heycqing/doc-kb) | 文档型知识库通用建库/核验/复用模板（无向量库、基于文件系统与交叉核验） | 知识工程 / RAG |
 | [**ai-translate**](https://github.com/heycqing/ai-translate) | 轻量 Chrome MV3 双语网页翻译扩展（OpenAI 兼容 + IndexedDB 缓存 + 自动降级） | 浏览器扩展 / 产品 |
-| [**qa-review-agent**](https://github.com/heycqing/qa-review-agent) | 面向研发交付的自动化质量评审智能体探索 | Agent / QA |
 
 ---
 
